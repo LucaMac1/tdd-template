@@ -22,3 +22,8 @@
 1. Create a file named example.cpp with your test code.
 2. Compile the file using the following command:
    g++ example.cpp /usr/local/lib/libgtest.a /usr/local/lib/libgtest_main.a -lpthread -I /usr/local/include/ -o firsttest.out
+
+## 3) Why do we need text fixture?
+
+## 4) CMake Intro with googletest
+
