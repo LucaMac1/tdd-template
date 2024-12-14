@@ -27,3 +27,11 @@
 
 ## 4) CMake Intro with googletest
 
+
+
+## 5) Mock Injection
+
+## 6) Line Coverage
+   sudo apt install lcov
+
+   firefox lcoverage/index.html
